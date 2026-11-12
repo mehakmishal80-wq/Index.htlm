@@ -1,2 +1,2 @@
-# Index.htlm
+# Index.html
 Birthday wish 
